@@ -8,15 +8,20 @@
   - ESP32 D0WD-V3
   - ESP32-S3
   - ESP32-C3
+- Hardware Discovery Log 003 - ESP8266 Recovery
+- Hardware Discovery Log 004 - LilyGO Board Survey
+- Hardware Discovery Log 005 - DJI Mini2SE Initial Teardown
+- Hardware Discovery Log 006 - Phantom4 Recovery Attempt
 
 ---
 
-## Pending Discovery Logs
+## Next Discovery Targets
 
-- Hardware Discovery Log 003 - ESP8266 Module Recovery
-- Hardware Discovery Log 004 - LilyGO Display Board Analysis
-- Hardware Discovery Log 005 - DJI Mini 2 SE Electronics Survey
-- Hardware Discovery Log 006 - Phantom 4 Recovery Investigation
+- DJI Mini 2 SE firmware analysis
+- ESP8266 flash extraction
+- LilyGO firmware backup
+- Phantom 4 communications recovery
+- NXP K66 evaluation
 
 ---
 
